@@ -1,0 +1,13 @@
+.nav {
+    /* max-height: 10vh; */
+    display: flex;
+    justify-content: space-between;
+    color: aqua;
+    padding: 1.5rem;
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+}
