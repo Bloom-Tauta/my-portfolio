@@ -1,0 +1,27 @@
+.about {
+    box-sizing: border-box;
+}
+
+.about-text {
+    margin: 4rem 2rem;
+    width: 40%;
+}
+
+.quote {
+    margin: 2rem;
+    width: 50%;
+}
+
+.image {
+    margin-right: 4rem;
+    display: flex;
+    align-items: flex-end;
+    justify-content: right;
+    height: 0rem;
+    width: 80%;
+}
+
+.dev {
+    border-radius: .6rem;
+    scale: 1.3;
+}

@@ -1,5 +1,6 @@
 .nav {
-    /* max-height: 10vh; */
+    /* background-color: antiquewhite; */
+    min-height: 10vh;
     display: flex;
     justify-content: space-between;
     color: aqua;
